@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**vishnucta/vishnucta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Me
 
-Here are some ideas to get you started:
+I am programmer and a motorbike lover , especially European machines and Japanese fine too !! :grinning:
+And do like to learn , share new technologies and i do blog once in a blue moon. :upside_down_face: Below are few from SAP Community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Go to SAP Bio](https://people.sap.com/vishnu.pankajakshan#content:blogposts)
+
+- 🔭 I’m currently working on S4 UX
+- 🌱 I’m currently learning Cloud Foundry
+- 📫 How to reach me: vishnucta@gmail.com
+
+
