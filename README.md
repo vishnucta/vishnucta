@@ -8,7 +8,7 @@ And do like to learn , share new technologies and i do blog once in a blue moon.
 [Go to SAP Community Profile](https://people.sap.com/vishnu.pankajakshan#content:blogposts)
 
 - 🔭 I’m currently working on S4 UX
-- 🌱 I’m currently learning Cloud Foundry
+- 🌱 I’m currently learning Cloud Foundry and a new crush DevOps
 - 📫 How to reach me: vishnucta@gmail.com
 
 
